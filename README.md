@@ -71,7 +71,7 @@ All the rooms herein, are absolute free. ATTACK!!
 
 - [x] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex) (*b-8.5)
 
-## Linux Fundamentals
+## Linux
 
 
 - [ ] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules) (50%)
@@ -79,6 +79,7 @@ All the rooms herein, are absolute free. ATTACK!!
 - [x] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
 - [x] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
+- [x] [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining) (b-9)
 ##### Paid Room
 - [ ] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3) (30%)
 
@@ -110,8 +111,6 @@ All the rooms herein, are absolute free. ATTACK!!
 - [ ] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
 - [ ] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
-
-- [ ] [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
 
 - [ ] [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
 
