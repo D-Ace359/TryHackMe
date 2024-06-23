@@ -80,8 +80,9 @@ All the rooms herein, are absolute free. ATTACK!!
 
 - [x] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
 - [x] [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining) (b-9)
+- [ ] [Linux Process Analysis](https://tryhackme.com/r/room/linuxfilesystemanalysis)
 ##### Paid Room
-- [ ] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3) (30%)
+- [ ] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3) (34%)
 
 ## Windows Fundamentals
 
