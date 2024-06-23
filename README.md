@@ -74,13 +74,13 @@ All the rooms herein, are absolute free. ATTACK!!
 ## Linux Fundamentals
 
 
-- [ ] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
+- [ ] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules) (50%)
 
-- [ ] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- [x] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
-- [ ] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2) -- Multiple persons have claimed this room is NO longer free, so we're scheduling its _redaction_
-
-- [ ] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
+- [x] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
+##### Paid Room
+- [ ] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3) (30%)
 
 ## Windows Fundamentals
 
